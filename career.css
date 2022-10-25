@@ -1,0 +1,104 @@
+.feature .one{
+    display: flex;
+    margin-top: 108px;
+    justify-content: space-between;
+}
+.feature .one .text h2{
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 72px;
+    letter-spacing: -0.03em;
+    color: #1D3444;
+    width: 618px;
+height: 288px;
+margin-bottom: 24px;
+margin-top: 85px;
+}
+.feature .one .text p{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #5B5B5B;
+    margin-bottom: 24px;
+    width: 510px;
+}
+.feature .one .text .btn{
+    font-weight: 600;
+font-size: 16px;
+line-height: 106.5%;
+text-transform: capitalize;
+color: #FFFFFF;
+background: #F58A07;
+border-radius: 27px;
+margin: 0;
+display: inline-block;
+}
+.feature .one .img{
+    position: relative;
+}
+.feature .one .img .orange{
+    z-index: 3;
+    
+    position: absolute;
+    top: 0;
+    left: 0;
+    mix-blend-mode: multiply;
+}
+.career-sec .big{
+    display: flex;
+    justify-content: space-between;
+}
+.card{
+    background: rgba(193, 228, 255, 0.3);
+border-radius: 20px;
+margin-bottom: 40px;
+}
+.card h2{
+    font-weight: 500;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height, or 125% */
+
+letter-spacing: -0.03em;
+
+color: #0D1317;
+}
+.card p{
+    font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+
+color: #394149;
+
+opacity: 0.6;
+}
+.card h3{
+    font-weight: 400;
+font-size: 18px;
+line-height: 106.5%;
+/* or 19px */
+
+
+color: #F58A07;
+
+}
+.card .border{
+    padding: 32px 40px;
+}
+.container .career-sec .text{
+    font-weight: 600;
+font-size: 48px;
+line-height: 56px;
+/* identical to box height, or 117% */
+
+letter-spacing: -0.03em;
+
+color: #0D1317;
+margin-top: 127px;
+margin-bottom: 64px;
+}
+.career-sec{
+    margin-bottom: 128px;
+}
